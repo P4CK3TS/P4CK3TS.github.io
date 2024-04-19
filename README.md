@@ -1330,10 +1330,9 @@ name="_Hlk67587791"><span class=span><span style='font-size:10.0pt;font-family:
 "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
 mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'>The
 University of Arizona Global Campus | Chandler, AZ</span></span></a><span
-style='mso-bookmark:_Hlk67587791'><span
-class=singlecolumnspanpaddedlinenth-child1><span style='font-size:10.0pt;
+style='mso-bookmark:_Hlk67587791'><span style='font-size:10.0pt;
 font-family:"Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
-mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'> </span></span></span><span
+mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'></span></span><span
 style='mso-bookmark:_Hlk67587791'><span style='font-size:10.0pt;font-family:
 "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
 mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
@@ -1369,10 +1368,9 @@ style='mso-bookmark:_Hlk67587791'><span class=span><span style='font-size:10.0pt
 font-family:"Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
 mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'>Colorado
 Technical University | Colorado Springs, CO</span></span></span><span
-style='mso-bookmark:_Hlk67587791'><span
-class=singlecolumnspanpaddedlinenth-child1><span style='font-size:10.0pt;
+style='mso-bookmark:_Hlk67587791'><span style='font-size:10.0pt;
 font-family:"Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
-mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'> </span></span></span><span
+mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'></span></span><span
 style='mso-bookmark:_Hlk67587791'><span style='font-size:10.0pt;font-family:
 "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
 mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
