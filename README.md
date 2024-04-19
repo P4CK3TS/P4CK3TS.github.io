@@ -1,24 +1,3 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="Kurtis_Palmateer_Resume_Final.fld/filelist.xml">
-<link rel=Edit-Time-Data href="Kurtis_Palmateer_Resume_Final.fld/editdata.mso">
-</head>
-
-<body lang=EN-US link="#5F5F5F" vlink="#919191" style='tab-interval:.5in;
-word-wrap:break-word'>
-
-<div class=WordSection1>
-
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=720
  style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:none black 0in;mso-border-themecolor:text2;mso-yfti-tbllook:
