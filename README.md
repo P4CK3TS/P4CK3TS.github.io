@@ -12,14 +12,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="Kurtis_Palmateer_Resume_Final.fld/filelist.xml">
 <link rel=Edit-Time-Data href="Kurtis_Palmateer_Resume_Final.fld/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]-->
 <!--[if gte mso 9]><xml>
  <o:CustomDocumentProperties>
   <o:x1ye_x003d_0 dt:dt="string">IC8AAB+LCAAAAAAABAAVl8WypFAQBT+IBTTOEnd3dri78/XzZttEdNwoOZVJIQTF0ywiQAyOECRCURzOkzCGcMRPELAfy86R4fioRZWIQKC9R+TjZZHQFZb3CTMhLyiUqbMqXBzOB2/rB9IKopedaiby4BW+3PGGvb+zJkcmLoL0EmUYpD0rlxU4K2IcjH3NQMyfx0oWSxgsdDWGZQJAU6LJeomyNEcdP5sjURFXUhtJ7aTfJRhiglc/3VIfNgr</o:x1ye_x003d_0>
@@ -2142,7 +2134,6 @@ ol
 ul
 	{margin-bottom:0in;}
 -->
-</style>
 <!--[if gte mso 10]>
 <style>
  /* Style Definitions */
