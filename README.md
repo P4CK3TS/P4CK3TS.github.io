@@ -160,7 +160,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   outsourced to internal IT department and supporting the technical operations
   of a HIPAA-compliant computer network for a medical family of companies.<o:p></o:p></span></span></p>
   <p class=divdocumentparlrColmnsinglecolumnulli style='margin-left:.25in;
-  text-indent:-.25in;line-height:normal;mso-list:l11 level1 lfo13'>c<span
+  text-indent:-.25in;line-height:normal;mso-list:l11 level1 lfo13'><span
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1445,9 +1445,3 @@ scripts and SQL programming. I have worked with many developers and programmers
 in the field since 2010. I believe Kurtis will help with innovative programming
 anywhere he goes. He has the skill and personality to get any job done well.” –
 Recorded via LinkedIn on November 21, 2017.<o:p></o:p></span></p>
-
-</div>
-
-</body>
-
-</html>
