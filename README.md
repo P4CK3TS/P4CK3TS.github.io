@@ -20,7 +20,7 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<title>Kurtis Palmateer</title>
+Kurtis Palmateer
 <!--[if gte mso 9]><xml>
  <o:CustomDocumentProperties>
   <o:x1ye_x003d_0 dt:dt="string">IC8AAB+LCAAAAAAABAAVl8WypFAQBT+IBTTOEnd3dri78/XzZttEdNwoOZVJIQTF0ywiQAyOECRCURzOkzCGcMRPELAfy86R4fioRZWIQKC9R+TjZZHQFZb3CTMhLyiUqbMqXBzOB2/rB9IKopedaiby4BW+3PGGvb+zJkcmLoL0EmUYpD0rlxU4K2IcjH3NQMyfx0oWSxgsdDWGZQJAU6LJeomyNEcdP5sjURFXUhtJ7aTfJRhiglc/3VIfNgr</o:x1ye_x003d_0>
