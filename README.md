@@ -2221,43 +2221,6 @@ word-wrap:break-word'>
   mso-themecolor:text2'>kurtis.palmateer@outlook.com&nbsp;<b>|&nbsp;(</b>602)
   935-4555 | 7434 E Garfield St, Scottsdale, AZ 85257<b><o:p></o:p></b></span></span></p>
   </td>
-  <td width=102 valign=top style='width:76.5pt;border:none black 1.0pt;
-  mso-border-themecolor:text2;border-left:none;mso-border-left-alt:none black 0in;
-  mso-border-left-themecolor:text2;mso-border-alt:none black 0in;mso-border-themecolor:
-  text2;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
-  <p class=divname><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
-   o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
-   <v:stroke joinstyle="miter"/>
-   <v:formulas>
-    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-    <v:f eqn="sum @0 1 0"/>
-    <v:f eqn="sum 0 0 @1"/>
-    <v:f eqn="prod @2 1 2"/>
-    <v:f eqn="prod @3 21600 pixelWidth"/>
-    <v:f eqn="prod @3 21600 pixelHeight"/>
-    <v:f eqn="sum @0 0 1"/>
-    <v:f eqn="prod @6 1 2"/>
-    <v:f eqn="prod @7 21600 pixelWidth"/>
-    <v:f eqn="sum @8 21600 0"/>
-    <v:f eqn="prod @7 21600 pixelHeight"/>
-    <v:f eqn="sum @10 21600 0"/>
-   </v:formulas>
-   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
-   <o:lock v:ext="edit" aspectratio="t"/>
-  </v:shapetype><v:shape id="Picture_x0020_123055721" o:spid="_x0000_s1026"
-   type="#_x0000_t75" style='position:absolute;left:0;text-align:left;
-   margin-left:5.8pt;margin-top:0;width:57pt;height:57pt;z-index:251658240;
-   visibility:visible;mso-wrap-style:square;mso-width-percent:0;
-   mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
-   mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;
-   mso-position-horizontal:right;mso-position-horizontal-relative:text;
-   mso-position-vertical:absolute;mso-position-vertical-relative:text;
-   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
-   mso-height-relative:page'>
-   <v:imagedata src="Kurtis_Palmateer_Resume_Final.fld/image001.png" o:title=""/>
-   <w:wrap type="square"/>
-  </v:shape></p>
-  </td>
  </tr>
 </table>
 
