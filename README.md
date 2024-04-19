@@ -20,7 +20,6 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-Kurtis Palmateer
 <!--[if gte mso 9]><xml>
  <o:CustomDocumentProperties>
   <o:x1ye_x003d_0 dt:dt="string">IC8AAB+LCAAAAAAABAAVl8WypFAQBT+IBTTOEnd3dri78/XzZttEdNwoOZVJIQTF0ywiQAyOECRCURzOkzCGcMRPELAfy86R4fioRZWIQKC9R+TjZZHQFZb3CTMhLyiUqbMqXBzOB2/rB9IKopedaiby4BW+3PGGvb+zJkcmLoL0EmUYpD0rlxU4K2IcjH3NQMyfx0oWSxgsdDWGZQJAU6LJeomyNEcdP5sjURFXUhtJ7aTfJRhiglc/3VIfNgr</o:x1ye_x003d_0>
@@ -701,7 +700,6 @@ href="Kurtis_Palmateer_Resume_Final.fld/colorschememapping.xml">
    Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
-<style>
 <!--
  /* Font Definitions */
  @font-face
@@ -2195,7 +2193,6 @@ table.divdocumentdivparagraphTable
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
-</style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1027"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
