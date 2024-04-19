@@ -125,7 +125,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Active Directory (AD) user account lookup tools for
@@ -135,7 +135,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Microsoft SCCM and RDP-based remote computer management
@@ -145,7 +145,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Citrix Xen Director hypervisor for managing remote
@@ -185,7 +185,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Supported the migration of devices between cloud-hosted
@@ -195,7 +195,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>ConnectWise to ManageEngine Endpoint Central Plus.<o:p></o:p></span></span></p>
@@ -234,7 +234,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Supported the Headquarters in Downtown Phoenix, AZ.<o:p></o:p></span></span></p>
@@ -243,7 +243,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>ServiceNow incident and hardware request support for
@@ -289,7 +289,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Configured, deployed, and tested Site-to-Site (S2S)
@@ -299,7 +299,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Prepared secure tunnels for HL7 data interfaces between
@@ -309,7 +309,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Managed approximately twenty Windows/SQL Server 2016
@@ -319,7 +319,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Administrated VMware ESXI/vSphere for virtual server
@@ -332,7 +332,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Migrated from </span></span><span style='font-size:
@@ -346,7 +346,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Protected Remote Desktop Services (RDS) server with
@@ -393,7 +393,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   text-indent:-.25in;line-height:normal;mso-list:l11 level1 lfo13'><span
   style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
   class=span><span style='font-size:10.0pt;font-family:"Palatino Linotype",serif;
   mso-fareast-font-family:"Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";
   color:black;mso-themecolor:text2'>Managed domain-joined desktop computers
@@ -406,7 +406,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Set up hardware for training rooms and production
@@ -418,7 +418,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Executed IT user acceptance and technology training via
@@ -486,7 +486,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Managed Office 365 / Azure AD tenant as a global
@@ -496,7 +496,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Migrated marketing webservers of over six hundred
@@ -507,7 +507,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Developed a PowerShell reporting tool to track call
@@ -518,7 +518,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Organizational leadership of IT and Dev team members.</span></span><span
@@ -582,7 +582,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Produced fixes for proprietary plugins within </span></span><span
@@ -595,7 +595,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Managed internal credentials for cPanel accounts for six
@@ -608,7 +608,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Specialized in backend database development, including
@@ -674,7 +674,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Conducted remote network endpoint monitoring and
@@ -690,7 +690,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text2'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Supported day-to-day user onboarding and offboarding as
@@ -700,7 +700,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Helped with phased migrations for Windows Servers (SBS,
@@ -761,7 +761,7 @@ color:black;mso-themecolor:text1'><o:p></o:p></span></span></p>
   class=span><span style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1'><span
   style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span></span><![endif]><span class=span><span
+  </span></span></span></span><span class=span><span
   style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
   "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype";color:black;
   mso-themecolor:text2'>Optimized future business goals and initiatives with
@@ -805,7 +805,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text2;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -815,7 +815,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text2;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -828,7 +828,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text2;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -856,7 +856,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text2;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -869,7 +869,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text2;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -882,7 +882,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text2;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -899,7 +899,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text1;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -914,7 +914,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -928,7 +928,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text1;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -951,7 +951,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text1;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -971,7 +971,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text2;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -987,7 +987,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text2;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -1005,7 +1005,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text2;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -1024,7 +1024,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text2;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -1043,7 +1043,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Courier New";mso-fareast-font-family:"Courier New";color:black;mso-themecolor:
   text2;font-weight:normal'><span style='mso-list:Ignore'>□<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text2;
@@ -1084,7 +1084,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1099,7 +1099,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1114,7 +1114,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1129,7 +1129,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1146,7 +1146,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1161,7 +1161,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1176,7 +1176,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1191,7 +1191,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1211,7 +1211,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1226,7 +1226,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1241,7 +1241,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1255,7 +1255,7 @@ mso-themecolor:text1'><o:p></o:p></span></p>
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;mso-bidi-font-size:
   12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
   color:black;mso-themecolor:text1;font-weight:normal'><span style='mso-list:
-  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+  Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
   class=divdocumentdivsectiontitle><span style='font-size:10.0pt;font-family:
   "Palatino Linotype",serif;mso-fareast-font-family:"Palatino Linotype";
   mso-bidi-font-family:"Palatino Linotype";color:black;mso-themecolor:text1;
@@ -1290,7 +1290,7 @@ line-height:13.0pt;mso-list:l13 level1 lfo2;background:white;mso-background-them
 background1'><span class=span><span style='font-size:10.0pt;
 font-family:"Courier New";mso-fareast-font-family:"Courier New";color:black;
 mso-color-alt:windowtext;mso-themecolor:text1'><span style='mso-list:Ignore'>□<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><span
 style='color:black;mso-color-alt:windowtext'><a
 href="https://www.credly.com/badges/8c196eec-15cd-4b18-b114-0ba36376f986"><span
 style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
@@ -1306,7 +1306,7 @@ background1'><span class=MsoHyperlink><span
 style='font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
 color:black;mso-color-alt:windowtext;mso-themecolor:text1;text-decoration:none;
 text-underline:none'><span style='mso-list:Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span></span><![endif]><span style='color:black;mso-color-alt:
+</span></span></span></span><span style='color:black;mso-color-alt:
 windowtext'><a
 href="https://www.credly.com/badges/a131db22-2427-428f-b3a4-effc90c2d3a4"><span
 style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
@@ -1321,7 +1321,7 @@ line-height:13.0pt;mso-list:l13 level1 lfo2;background:white;mso-background-them
 background1'><span class=span><span style='font-size:10.0pt;
 font-family:"Courier New";mso-fareast-font-family:"Courier New";color:black;
 mso-themecolor:text1'><span style='mso-list:Ignore'>□<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span></span><![endif]><span class=MsoHyperlink><span
+</span></span></span></span><span class=MsoHyperlink><span
 style='font-size:10.0pt;font-family:"Palatino Linotype",serif;mso-fareast-font-family:
 "Palatino Linotype";mso-bidi-font-family:"Palatino Linotype"'>3CX Basic
 Certified Engineer V18</span></span><span class=span><span style='font-size:
